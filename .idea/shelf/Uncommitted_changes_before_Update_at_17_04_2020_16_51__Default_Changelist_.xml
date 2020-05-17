@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Update_at_17_04_2020_16_51_[Default_Changelist]" date="1587128181366" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_04_2020_16_51_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 17.04.2020 16:51 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/dreamteam/easybarber/repos/UserRepo.class" />
+    <option name="AFTER_PATH" value="target/classes/com/dreamteam/easybarber/repos/UserRepo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_04_2020_16_51_[Default_Changelist]/UserRepo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/dreamteam/easybarber/domain/User.class" />
+    <option name="AFTER_PATH" value="target/classes/com/dreamteam/easybarber/domain/User.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_04_2020_16_51_[Default_Changelist]/User.class" />
+  </binary>
+</changelist>

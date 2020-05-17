@@ -1,0 +1,19 @@
+Index: target/classes/templates/testMain.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE HTML>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:th=\"https://www.thymeleaf.org\"\r\n      xmlns:sec=\"https://www.thymeleaf.org/thymeleaf-extras-springsecurity3\">\r\n    <title>Getting Started: Serving Web Content</title>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\r\n</head>\r\n<body>\r\n<div>Hello</div>\r\n<form th:action=\"@{/logout}\" method=\"post\">\r\n    <input type=\"submit\" value=\"Sign Out\"/>\r\n</form>\r\n<a href=\"user\"> UserList</a>\r\n<div>\r\n<a href=\"receptiontimeE\"> Reception </a>\r\n</div>\r\n<div>\r\n    <a href=\"serviceEditor\">Service Editor</a>\r\n</div>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/classes/templates/testMain.html	(revision d4e14e625a2a92326c6528918025921b2877d593)
++++ target/classes/templates/testMain.html	(date 1587040763385)
+@@ -16,5 +16,8 @@
+ <div>
+     <a href="serviceEditor">Service Editor</a>
+ </div>
++<div>
++    <a href="client-recording">Запишусь-ка я куда-нибудь</a>
++</div>
+ </body>
+ </html>
+\ No newline at end of file
